@@ -27,7 +27,6 @@ mpz_init(pk2);
 mpz_init(total);
 mpz_init(sk1);
 mpz_init(sk2);
-// mpz_init(power);
 //mpz_variable value setting zone
 mpz_set_ui(P1,P);
 mpz_set_ui(G1,G);
